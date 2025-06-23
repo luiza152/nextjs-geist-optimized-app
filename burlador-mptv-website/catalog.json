@@ -1,0 +1,109 @@
+{
+  "iptv": [
+    {
+      "title": "The Simpsons - Completo",
+      "type": "serie",
+      "category": "animes",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/02/Simpsons_FamilyPicture.png",
+      "description": "Todos os episódios dos Simpsons dublados e legendados.",
+      "player": "https://vidsrc.to/embed/tv/83"
+    },
+    {
+      "title": "Family Guy - Completo",
+      "type": "serie",
+      "category": "animes",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3f/Family_Guy_Logo.png",
+      "description": "Family Guy completo dublado e legendado.",
+      "player": "https://vidsrc.to/embed/tv/1434"
+    },
+    {
+      "title": "SporTV Ao Vivo",
+      "type": "iptv",
+      "category": "esportes",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5c/SporTV_logo_2021.png",
+      "description": "Canal esportivo 24h ao vivo.",
+      "player": "https://player.iptv-org.com/embed/channels/spor-tv"
+    },
+    {
+      "title": "CNN Brasil",
+      "type": "iptv",
+      "category": "noticias",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e9/CNN_Brasil_logo.png",
+      "description": "Notícias 24h CNN Brasil.",
+      "player": "https://player.iptv-org.com/embed/channels/cnn-brasil"
+    },
+    {
+      "title": "Cartoon Network Ao Vivo",
+      "type": "iptv",
+      "category": "infantil",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cartoon_Network_2010_logo.svg",
+      "description": "Canal Cartoon Network ao vivo para as crianças.",
+      "player": "https://player.iptv-org.com/embed/channels/cartoon-network"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Filme - Homem-Aranha (2002)",
+      "type": "filme",
+      "category": "ação",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/0/02/Spider-man2002poster.jpg",
+      "description": "Homem-Aranha, o clássico de 2002, dublado e legendado.",
+      "player": "https://vidsrc.to/embed/movie/557"
+    },
+    {
+      "title": "Breaking Bad",
+      "type": "serie",
+      "category": "drama",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png",
+      "description": "Série completa Breaking Bad dublada e legendada.",
+      "player": "https://vidsrc.to/embed/tv/1396"
+    }
+  ],
+  "music": [
+    {
+      "title": "Funk RJ 24H",
+      "type": "musica",
+      "category": "radio",
+      "thumbnail": "https://i.imgur.com/tFzX8zA.png",
+      "description": "Rádio Funk diretamente do RJ tocando 24h.",
+      "player": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1031587915"
+    },
+    {
+      "title": "MC Cabelinho - Minha Cura",
+      "artist": "MC Cabelinho",
+      "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1493615027"
+    },
+    {
+      "title": "Orochi - Balão",
+      "artist": "Orochi",
+      "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1487292055"
+    },
+    {
+      "title": "Bin - Saturno",
+      "artist": "BIN",
+      "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1437284953"
+    }
+  ],
+  "radio": [
+    {
+      "title": "Funk RJ 24H",
+      "type": "musica",
+      "category": "radio",
+      "thumbnail": "https://i.imgur.com/tFzX8zA.png",
+      "description": "Rádio Funk diretamente do RJ tocando 24h.",
+      "player": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1031587915"
+    }
+  ],
+  "failover": [
+    "https://backupserver1.com",
+    "https://backupserver2.com",
+    "https://backupserver3.com",
+    "https://backupserver4.com",
+    "https://backupserver5.com",
+    "https://backupserver6.com",
+    "https://backupserver7.com",
+    "https://backupserver8.com",
+    "https://backupserver9.com",
+    "https://backupserver10.com"
+  ]
+}

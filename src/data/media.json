@@ -1,0 +1,269 @@
+{
+  "movies": [
+    {
+      "id": "movie-1",
+      "title": "Oppenheimer",
+      "description": "A história do cientista J. Robert Oppenheimer e seu papel no desenvolvimento da bomba atômica.",
+      "type": "movie",
+      "cover": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/uYPbbksJxIg"
+      ],
+      "category": "Drama",
+      "year": 2023,
+      "rating": 8.5,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "HD"
+      }
+    },
+    {
+      "id": "movie-4",
+      "title": "Velozes e Furiosos 10",
+      "description": "Dom Toretto e sua família devem enfrentar o adversário mais letal que já encontraram.",
+      "type": "movie",
+      "cover": "https://image.tmdb.org/t/p/w500/4CWoalqAsRzXD9AFbsI1UqYvHF1.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/eoOaKN4qCKw"
+      ],
+      "category": "Ação",
+      "year": 2023,
+      "rating": 7.8,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "HD"
+      }
+    },
+    {
+      "id": "movie-5",
+      "title": "Avatar: O Caminho da Água",
+      "description": "Jake Sully e Neytiri devem proteger sua família das ameaças que retornam a Pandora.",
+      "type": "movie",
+      "cover": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/o5F8MOz_IDw"
+      ],
+      "category": "Ficção Científica",
+      "year": 2022,
+      "rating": 8.7,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    },
+    {
+      "id": "movie-2",
+      "title": "Barbie",
+      "description": "Barbie e Ken estão vivendo a vida perfeita em Barbieland, até serem expulsos para o mundo real.",
+      "type": "movie",
+      "cover": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/pBk4NYhWNMM"
+      ],
+      "category": "Comédia",
+      "year": 2023,
+      "rating": 7.5,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "HD"
+      }
+    },
+    {
+      "id": "movie-3",
+      "title": "Guardiões da Galáxia Vol. 3",
+      "description": "Peter Quill deve reunir sua equipe para defender o universo e proteger um dos seus.",
+      "type": "movie",
+      "cover": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/u3V5KDHRQvk"
+      ],
+      "category": "Ação",
+      "year": 2023,
+      "rating": 8.0,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    }
+  ],
+  "series": [
+    {
+      "id": "series-1",
+      "title": "The Last of Us",
+      "description": "Vinte anos após a queda da civilização, Joel é contratado para tirar Ellie de uma zona de quarentena perigosa.",
+      "type": "series",
+      "cover": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/uLtkt8BonwM"
+      ],
+      "category": "Drama",
+      "year": 2023,
+      "rating": 8.8,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    },
+    {
+      "id": "series-2",
+      "title": "House of the Dragon",
+      "description": "A história da família Targaryen 200 anos antes dos eventos de Game of Thrones.",
+      "type": "series",
+      "cover": "https://image.tmdb.org/t/p/w500/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/DotnJ7tTA34"
+      ],
+      "category": "Fantasia",
+      "year": 2023,
+      "rating": 8.9,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    },
+    {
+      "id": "series-3",
+      "title": "The Mandalorian",
+      "description": "As aventuras de um pistoleiro solitário nos confins da galáxia.",
+      "type": "series",
+      "cover": "https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/aOC8E8z_ifw"
+      ],
+      "category": "Ficção Científica",
+      "year": 2023,
+      "rating": 8.7,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    }
+  ],
+  "animes": [
+    {
+      "id": "anime-1",
+      "title": "Demon Slayer",
+      "description": "Um jovem se torna um caçador de demônios após sua família ser massacrada e sua irmã transformada.",
+      "type": "anime",
+      "cover": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/VQGCKyvzIM4"
+      ],
+      "category": "Ação",
+      "year": 2023,
+      "rating": 8.7,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "HD"
+      }
+    },
+    {
+      "id": "anime-2",
+      "title": "Jujutsu Kaisen",
+      "description": "Um estudante do ensino médio se junta a uma organização secreta de feiticeiros para combater maldições.",
+      "type": "anime",
+      "cover": "https://image.tmdb.org/t/p/w500/hFWP5HkbVEe40hrXgtCeQxoccHE.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/4A_X-Dvl0ws"
+      ],
+      "category": "Ação",
+      "year": 2023,
+      "rating": 8.9,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "HD"
+      }
+    }
+  ],
+  "music": [
+    {
+      "id": "music-1",
+      "title": "Flowers - Miley Cyrus",
+      "description": "Música do álbum Endless Summer Vacation",
+      "type": "music",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b5549fca7e404d21c39d7757",
+      "sources": [
+        "https://www.youtube.com/embed/G7KNmW9a75Y"
+      ],
+      "category": "Pop",
+      "year": 2023,
+      "rating": 4.5,
+      "metadata": {
+        "language": "pt-br-legendado",
+        "quality": "HD"
+      }
+    }
+  ],
+  "live": [
+    {
+      "id": "live-1",
+      "title": "ESPN Brasil HD",
+      "description": "Canal de esportes ao vivo 24 horas",
+      "type": "live",
+      "cover": "https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",
+      "sources": [
+        "https://www.youtube.com/embed/live_stream?channel=UCRsEcPxw4tRGZM34-r4n09A"
+      ],
+      "category": "Esportes",
+      "year": 2023,
+      "rating": 4.8,
+      "metadata": {
+        "language": "pt-br",
+        "quality": "HD"
+      }
+    },
+    {
+      "id": "live-2",
+      "title": "Globo SP HD",
+      "description": "Canal aberto ao vivo 24 horas",
+      "type": "live",
+      "cover": "https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo.png",
+      "sources": [
+        "https://www.youtube.com/embed/live_stream?channel=UCcVQBqhGVPUPkl4XPqzuGOA"
+      ],
+      "category": "TV Aberta",
+      "year": 2023,
+      "rating": 4.5,
+      "metadata": {
+        "language": "pt-br",
+        "quality": "HD"
+      }
+    }
+  ],
+  "documentaries": [
+    {
+      "id": "doc-1",
+      "title": "Planeta Terra",
+      "description": "Uma exploração das maravilhas naturais do nosso planeta",
+      "type": "documentary",
+      "cover": "https://image.tmdb.org/t/p/w500/dgPueyEdOwpQ10fjuhL2WYFQwQs.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/GfO-3Oir-qM"
+      ],
+      "category": "Natureza",
+      "year": 2023,
+      "rating": 9.0,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    },
+    {
+      "id": "doc-2",
+      "title": "O Dilema das Redes",
+      "description": "Como as redes sociais impactam nossas vidas e a sociedade",
+      "type": "documentary",
+      "cover": "https://image.tmdb.org/t/p/w500/7d3vRgbmnrRQ39Qmzd66bQyY7Is.jpg",
+      "sources": [
+        "https://www.youtube.com/embed/uaaC57tcci0"
+      ],
+      "category": "Tecnologia",
+      "year": 2023,
+      "rating": 8.5,
+      "metadata": {
+        "language": "pt-br-dublado",
+        "quality": "4K"
+      }
+    }
+  ]
+}

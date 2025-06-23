@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="bg-black text-white">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BURLADOR MPTV - Player</title>
+  <link href="assets/styles.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+  <header class="header">
+    <h1>BURLADOR MPTV</h1>
+    <input id="searchInput" type="text" placeholder="Buscar conteúdo..." />
+    <button id="loginBtn">Login</button>
+    <button id="subscribeBtn">Assinar</button>
+  </header>
+
+  <main class="main-content">
+    <section class="media-library">
+      <h2>Biblioteca de Mídia</h2>
+      <div id="mediaList" class="media-list"></div>
+    </section>
+
+    <section class="player-section">
+      <div id="loading" class="loading hidden">Carregando...</div>
+      <video id="videoPlayer" controls class="video-player"></video>
+      <iframe id="iframePlayer" class="iframe-player hidden" frameborder="0" allowfullscreen></iframe>
+      <div id="soundcloudPlayer" class="soundcloud-player hidden"></div>
+      <div class="player-controls">
+        <button id="playPauseBtn">Play/Pause</button>
+        <button id="fullscreenBtn">Fullscreen</button>
+        <input id="volumeControl" type="range" min="0" max="1" step="0.01" />
+        <select id="qualitySelect"></select>
+      </div>
+    </section>
+  </main>
+
+  <script src="scripts/player.js"></script>
+</body>
+</html>
